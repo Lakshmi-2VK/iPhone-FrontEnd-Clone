@@ -1,8 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Website which just solely focuses on the frontend, mainly ThreeJS and GSAP.
+Here are the snippets of the website
 
-Currently, two official plugins are available:
+![Screenshot 2024-09-12 221408](https://github.com/user-attachments/assets/097efc6b-6656-45d8-981a-5ecb84bdb394)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+![Screenshot 2024-09-12 221443](https://github.com/user-attachments/assets/e7bc6c87-84d2-4522-b182-dae8aa31d21b)
+
+
+
+![Screenshot 2024-09-12 221451](https://github.com/user-attachments/assets/abf872c4-f3af-4e54-8515-afdb44bb2cf4)
+
+
+
+![Screenshot 2024-09-12 221427](https://github.com/user-attachments/assets/d196c9d6-d91a-4786-891a-2dfe3795c971)
