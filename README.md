@@ -3,6 +3,8 @@
 This is a Website which just solely focuses on the frontend, mainly ThreeJS and GSAP.
 Here are the snippets of the website
 
+Website:
+https://i-phone-frontend-clone.vercel.app/
 
 ![Screenshot 2024-09-12 221408](https://github.com/user-attachments/assets/41b8852f-f7fd-4d2e-a605-0d71c534e5ca)
 
